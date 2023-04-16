@@ -1,0 +1,4 @@
+### Invisible option for dependencies
+config APPTESTSYMLINK_DEPENDENCIES
+        bool
+        default y

@@ -1,0 +1,3 @@
+$(eval $(call addlib,testsymlink))
+
+TESTSYMLINK_SRCS += $(TESTSYMLINK_BASE)/main.c
